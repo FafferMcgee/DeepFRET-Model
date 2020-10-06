@@ -1,3 +1,8 @@
+This code is associated with the paper from DeepFRET, a software for rapid and
+automated single molecule FRET data
+classification using deep learning
+ et al., "Johannes Thomsen". eLife, 2020. http://doi.org/10.7554/eLife.60404
+
 # DeepFRET-Model
 Repository for the model training.
 
